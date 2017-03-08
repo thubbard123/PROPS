@@ -5,6 +5,7 @@
         <Variables />
         <Shapes>
             <Shape Type="Bubble" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" Width="112" Height="68" TipX="467" TipY="216" LineWidth="2" LineColor="#0000cd" BackgroundType="GradientNS" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" ShapeTimeSpan="10000" X="528" Y="149" Right="75" Bottom="294" Transparency="0" Left="528" Top="149" CalloutX="528" CalloutY="149" CalloutWidth="112" CalloutHeight="68" />
+            <Shape Type="Bubble" PaddingLeft="0" PaddingBottom="0" PaddingRight="0" PaddingTop="0" Width="141" Height="57" TipX="230" TipY="83" LineWidth="2" LineColor="#ffff00" BackgroundType="GradientNS" BackgroundColor="#ffffff" BackgroundColorAlt="#eeeeee" EnableShadow="True" ShadowDX="4" ShadowDY="4" ShadowColor="#696969" ShadowTransparency="0.7" ShapeTimeSpan="10000" X="62" Y="26" Right="477" Bottom="428" Transparency="0" Left="62" Top="26" CalloutX="39" CalloutY="30" CalloutWidth="141" CalloutHeight="57" />
         </Shapes>
         <Shapes IsResourceLayer="true" Name="Resources" />
         <ConditionTagSet />
